@@ -1,8 +1,10 @@
-#method example:
-# random_string = "aaa"
-# random_string.upper() <- .upper() is a METHOD
+#Tutorial: freeCodeCamp.org - Object Oriented Programming with Python - Full Course for Beginners
+#https://www.youtube.com/watch?v=Ej_02ICOIgs&ab_channel=freeCodeCamp.org
 
 #Methods are functions inside classes!
+    #method example:
+    # random_string = "aaa"
+    # random_string.upper() <- .upper() is a METHOD
 
 class Item:
     #Class attributes
